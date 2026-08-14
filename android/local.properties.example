@@ -1,0 +1,7 @@
+# Local Properties Configuration for MYRAA Android App
+# Rename this file to local.properties or let Android Studio generate it automatically.
+# Specify your Android SDK location if needed:
+# sdk.dir=/Users/YOUR_USER/Library/Android/sdk
+
+# Secure API Key configuration (Never hardcode secrets in source code!)
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE

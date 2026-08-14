@@ -1,0 +1,10 @@
+{
+  "name": "MYRAA AI Assistant",
+  "description": "Futuristic real-time voice AI assistant with HUD display, glowing core, animated avatar, audio visualizer, tools, and multilingual support (Hindi, Hinglish, English).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,8 @@
+<resources>
+    <!-- MYRAA Dark Sci-Fi Palette -->
+    <color name="myraa_black">#04050A</color>
+    <color name="myraa_red_primary">#FF0033</color>
+    <color name="myraa_pink_gf">#FF0080</color>
+    <color name="myraa_cyan">#00F0FF</color>
+    <color name="myraa_gray_dark">#12050E</color>
+</resources>
